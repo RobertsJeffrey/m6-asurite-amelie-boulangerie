@@ -80,6 +80,10 @@ nav a:hover{
 #bg-pink{
     background-color: #F28095;
 }
+main{
+    color: #542c1b;
+    padding-bottom: 16px;
+}
 main img{
     float: left;
 }
